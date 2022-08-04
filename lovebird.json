@@ -1,0 +1,202 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Love Bird",
+      "image": "https://ia601507.us.archive.org/25/items/icon_20220804_20220804/icon.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Lovebird Terapi",
+      "image": "https://ia601507.us.archive.org/25/items/icon_20220804_20220804/icon.png"
+    },
+    {
+      "id": 3,
+      "name_category": "lovebird Kusumo",
+      "image": "https://archive.org/download/kusumo-beraksi1/kusumo-beraksi1.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Lainnya",
+      "image": "https://ia601502.us.archive.org/13/items/lovebird_202208/lovebird.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "lovebird Kusumo",
+      "title": "lovebird Kusumo",
+      "image": "https://archive.org/download/kusumo-beraksi1/kusumo-beraksi1.jpg",
+      "link_mp3": "https://archive.org/download/KicauKacerDurasiPanjang1jamLebih_20150702/Audio%201%20lovebird%20Kusumo.mp3",
+      "lyrics": "cit cit kek kek kek" },
+    {
+      "id": 2,
+      "name_category": "lovebird Kusumo",
+      "title": "lovebird Kusumo 2",
+      "image": "https://archive.org/download/kusumo-beraksi1/kusumo-beraksi1.jpg",
+      "link_mp3":"https://archive.org/download/KicauKacerDurasiPanjang1jamLebih_20150702/Audio%202%20lovebird%20Kusumo.mp3",
+      "lyrics": "kosong" },
+    {
+      "id": 3,
+      "name_category": "Lovebird Terapi",
+      "title": "Lovebird Terapi 1",
+      "image": "https://archive.org/download/kusumo-beraksi1/kusumo-beraksi1.jpg",
+      "link_mp3":"https://ia601507.us.archive.org/25/items/icon_20220804_20220804/icon.png",
+      "lyrics": "kosong" },
+    {
+      "id": 4,
+      "name_category": "Lovebird Terapi",
+      "title": "Lovebird Terapi 2",
+      "image": "https://archive.org/download/kusumo-beraksi1/kusumo-beraksi1.jpg",
+      "link_mp3":"https://ia601507.us.archive.org/25/items/icon_20220804_20220804/icon.png",
+      "lyrics": "kosong" },
+  
+    {
+      "id": 5,
+      "name_category": "Lovebird Terapi",
+      "title": "Lovebird Terapi 3",
+      "image": "https://archive.org/download/kusumo-beraksi1/kusumo-beraksi1.jpg",
+      "link_mp3":"https://archive.org/download/KicauKacerDurasiPanjang1jamLebih_20150702/Lovebird%20Terapi%20%283%29.mp3",
+      "lyrics": "kosong" },
+  
+    {
+      "id": 6,
+      "name_category": "Lovebird Terapi",
+      "title": "Lovebird Terapi 4",
+      "image": "https://archive.org/download/kusumo-beraksi1/kusumo-beraksi1.jpg",
+      "link_mp3":"https://archive.org/download/KicauKacerDurasiPanjang1jamLebih_20150702/Lovebird%20Terapi%20%284%29.mp3",
+      "lyrics": "kosong" },
+    {
+      "id": 7,
+      "name_category": "Lovebird Terapi",
+      "title": "Lovebird Terapi 5",
+      "image": "https://archive.org/download/kusumo-beraksi1/kusumo-beraksi1.jpg",
+      "link_mp3":"https://archive.org/download/KicauKacerDurasiPanjang1jamLebih_20150702/Lovebird%20Terapi%20%285%29.mp3",
+      "lyrics": "kosong" },
+    {
+      "id": 8,
+      "name_category": "Lovebird Terapi",
+      "title": "Lovebird Terapi 6",
+      "image": "https://archive.org/download/kusumo-beraksi1/kusumo-beraksi1.jpg",
+      "link_mp3":"https://archive.org/download/KicauKacerDurasiPanjang1jamLebih_20150702#:~:text=Lovebird%20Terapi%20(6).mp3",
+      "lyrics": "kosong" },
+    {
+      "id": 9,
+      "name_category": "Lovebird Terapi",
+      "title": "Lovebird Terapi 7",
+      "image": "https://archive.org/download/kusumo-beraksi1/kusumo-beraksi1.jpg",
+      "link_mp3":"https://archive.org/download/KicauKacerDurasiPanjang1jamLebih_20150702/Lovebird%20Terapi%20%287%29.mp3",
+      "lyrics": "kosong" },
+    {
+      "id": 10,
+      "name_category": "Lovebird Terapi",
+      "title": "Lovebird Terapi 8",
+      "image": "https://archive.org/download/kusumo-beraksi1/kusumo-beraksi1.jpg",
+      "link_mp3":"https://archive.org/download/KicauKacerDurasiPanjang1jamLebih_20150702/Lovebird%20Terapi%20%288%29.mp3",
+      "lyrics": "kosong" },
+    {
+      "id": 11,
+      "name_category": "Lovebird Terapi",
+      "title": "Lovebird Terapi 9",
+      "image": "https://archive.org/download/kusumo-beraksi1/kusumo-beraksi1.jpg",
+      "link_mp3":"https://archive.org/download/KicauKacerDurasiPanjang1jamLebih_20150702/Lovebird%20Terapi%20%289%29.mp3",
+      "lyrics": "kosong" },
+    {
+      "id": 12,
+      "name_category": "Lovebird",
+      "title": "Lovebird",
+      "image": "https://ia601507.us.archive.org/25/items/icon_20220804_20220804/icon.png",
+      "link_mp3":"https://archive.org/download/KicauKacerDurasiPanjang1jamLebih_20150702/Lovebird.mp3",
+      "lyrics": "kosong" },
+    {
+      "id": 13,
+      "name_category": "Lovebird",
+      "title": "Lovebird2",
+      "image": "https://ia601507.us.archive.org/25/items/icon_20220804_20220804/icon.png",
+      "link_mp3":"https://archive.org/download/KicauKacerDurasiPanjang1jamLebih_20150702/Lovebirds%20%281%29.mp3",
+      "lyrics": "kosong" },
+    {
+      "id": 14,
+      "name_category": "Lovebird",
+      "title": "Lovebird3",
+      "image": "https://ia601507.us.archive.org/25/items/icon_20220804_20220804/icon.png",
+      "link_mp3":"https://archive.org/download/KicauKacerDurasiPanjang1jamLebih_20150702/Lovebirds%20%282%29.mp3",
+      "lyrics": "kosong" },
+    {
+      "id": 15,
+      "name_category": "Lovebird",
+      "title": "Lovebird3",
+      "image": "https://ia601507.us.archive.org/25/items/icon_20220804_20220804/icon.png",
+      "link_mp3":"https://archive.org/download/KicauKacerDurasiPanjang1jamLebih_20150702/Lovebirds%20%283%29.mp3",
+      "lyrics": "kosong" },
+    {
+      "id": 16,
+      "name_category": "Lovebird",
+      "title": "Lovebird4",
+      "image": "https://ia601507.us.archive.org/25/items/icon_20220804_20220804/icon.png",
+      "link_mp3":"https://archive.org/download/KicauKacerDurasiPanjang1jamLebih_20150702/Lovebirds%20%284%29.mp3",
+      "lyrics": "kosong" },
+    {
+      "id": 17,
+      "name_category": "Lovebird",
+      "title": "Lovebird5",
+      "image": "https://ia601507.us.archive.org/25/items/icon_20220804_20220804/icon.png",
+      "link_mp3":"https://archive.org/download/KicauKacerDurasiPanjang1jamLebih_20150702/Lovebirds%20%285%29.mp3",
+      "lyrics": "kosong" },
+    {
+      "id": 18,
+      "name_category": "Lovebird",
+      "title": "Lovebird6",
+      "image": "https://ia601507.us.archive.org/25/items/icon_20220804_20220804/icon.png",
+      "link_mp3":"https://archive.org/download/KicauKacerDurasiPanjang1jamLebih_20150702/Lovebirds%20%286%29.mp3",
+      "lyrics": "kosong" },
+    {
+      "id": 29,
+      "name_category": "Lovebird",
+      "title": "Lovebird7",
+      "image": "https://ia601507.us.archive.org/25/items/icon_20220804_20220804/icon.png",
+      "link_mp3":"https://archive.org/download/KicauKacerDurasiPanjang1jamLebih_20150702/Lovebirds%20%287%29.mp3",
+      "lyrics": "kosong" },
+    {
+      "id": 20,
+      "name_category": "Lovebird",
+      "title": "Lovebird8",
+      "image": "https://ia601507.us.archive.org/25/items/icon_20220804_20220804/icon.png",
+      "link_mp3":"https://archive.org/download/KicauKacerDurasiPanjang1jamLebih_20150702/Lovebirds%20%288%29.mp3",
+      "lyrics": "kosong" },
+    {
+      "id": 21,
+      "name_category": "Lovebird",
+      "title": "Lovebird9",
+      "image": "https://ia601507.us.archive.org/25/items/icon_20220804_20220804/icon.png",
+      "link_mp3":"https://archive.org/download/KicauKacerDurasiPanjang1jamLebih_20150702/Lovebirds%20%289%29.mp3",
+      "lyrics": "kosong" },
+    {
+      "id": 22,
+      "name_category": "Lainnya",
+      "title": "lovebird rombongan",
+      "image": "https://ia601502.us.archive.org/13/items/lovebird_202208/lovebird.jpg",
+      "link_mp3":"https://archive.org/download/KicauKacerDurasiPanjang1jamLebih_20150702/lovebird%20rombongan.mp3",
+      "lyrics": "kosong" }
+  ]
+}
