@@ -1,0 +1,436 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "MASTERAN KENARI",
+      "image": "https://archive.org/download/timun-485x360-removebg-preview/timun-485x360-removebg-preview.png"
+    },
+    {
+      "id": 2,
+      "name_category": "TERAPI KENARI",
+      "image": "https://i.pinimg.com/736x/bb/44/6a/bb446a11eef1396393c1bf1473e3a467.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "KENARI JUARA",
+      "image": "https://i.pinimg.com/564x/99/61/98/996198b45bc948a5dd2015a0ab36551f.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "KICAU KENARI",
+      "image": "https://i.pinimg.com/564x/24/f2/0a/24f20a1718b6945a3aa727585ee25051.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "MASTERAN KENARI",
+      "title": "Kicau KENARI obat Stress pasca LOMBA.mp3",
+      "image": "https://archive.org/download/timun-485x360-removebg-preview/timun-485x360-removebg-preview.png",
+      "link_mp3": "https://archive.org/download/masterankenari/Gak%20Bakalan%20KENARI%20anda%20DIEM%2C%20Dengar%20Masteran%20KENARI%20INI%2C%20Kicau%20KENARI%20obat%20Stress%20pasca%20LOMBA.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 2,
+      "name_category": "MASTERAN KENARI",
+      "title": "Suara Kenari Gacor Masteran.mp3",
+      "image": "https://i.pinimg.com/564x/2d/bd/2a/2dbd2a8b7665237b46f0eab017981b42.jpg",
+      "link_mp3":"https://archive.org/download/masterankenari/Kicau%20Kenari%20F1%20untuk%20Melatih%20Suara%20Kenari%20agar%20Gacor%20-%20Suara%20Kenari%20Gacor%20Masteran.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 3,
+      "name_category": "MASTERAN KENARI",
+      "title": "Masteran Kenari F1",
+      "image": "https://i.pinimg.com/564x/cc/0e/63/cc0e6314d016b8d83a9990bdf537ad48.jpg",
+      "link_mp3": "https://archive.org/download/masterankenari/Masteran%20Kenari%20F1%20Suara%20Panjang%20-%20Durasi%20Panjang.mp3",
+      "lyrics": "KOSONG"
+    },
+    {
+      "id": 4,
+      "name_category": "MASTERAN KENARI",
+      "title": "PANCINGAN SUARA MASTERAN KENARI",
+      "image": "https://i.pinimg.com/564x/81/ba/02/81ba0275ac19925d4df34fe39c5f73fb.jpg",
+      "link_mp3": "https://archive.org/download/masterankenari/PANCINGAN%20SUARA%20MASTERAN%20KENARI%20BIKIN%20BURUNG%20MAKIN%20MENGGILA.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 5,
+      "name_category": "MASTERAN KENARI",
+      "title": "Masteran Kenari F1 Yorkshire",
+      "image": "https://i.pinimg.com/564x/4e/c1/e4/4ec1e4f4bf7fc74fe904131ed96cb0fe.jpg",
+      "link_mp3": "https://archive.org/download/masterankenari/Suara%20Kenari%20Gacor%20Isian%20Blackthroat%20Durasi%20Panjang%20untuk%20Masteran%20Kenari%20F1%20Yorkshire.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 6,
+      "name_category": "MASTERAN KENARI",
+      "title": "Suara Kenari Juara",
+      "image": "https://i.pinimg.com/564x/ae/17/17/ae1717fd4d7a3828855c9b3ceb457497.jpg",
+      "link_mp3": "https://archive.org/download/masterankenari/Suara%20Kenari%20Juara%20MP3%20_%20Masteran%20Kenari%20_%20Burung%20Kenari%20Gacor%20Durasi%20Panjang.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 7,
+      "name_category": "MASTERAN KENARI",
+      "title": "Masteran Jernih",
+      "image": "https://i.pinimg.com/564x/8f/f2/9f/8ff29ff443e9168e37fe1185cd36c94b.jpg",
+      "link_mp3": "https://archive.org/download/masterankenari/Suara%20Masteran%20Burung%20Kenari%20F1%20_%20Kenari%20Juara%20Gacor%20_%20Masteran%20Jernih.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 8,
+      "name_category": "MASTERAN KENARI",
+      "title": "Suara Masteran Kenari F1 Gacor Full",
+      "image": "https://i.pinimg.com/564x/0a/db/04/0adb041dfaf6396880179cd37e3f653b.jpg",
+      "link_mp3": "https://archive.org/download/masterankenari/Suara%20Masteran%20Kenari%20Durasi%20Panjang%20_%20Burung%20Kenari%20Juara%20_%20Kenari%20F1%20Gacor%20Full.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 9,
+      "name_category": "TERAPI KENARI",
+      "title": "terapi kenari AMPUH",
+      "image": "https://i.pinimg.com/564x/99/61/98/996198b45bc948a5dd2015a0ab36551f.jpg",
+      "link_mp3": "https://archive.org/download/masterankenari/terapi%20kenari%20AMPUH%20untuk%20TINGKATKAN%20VOLUME%20dan%20KUALITAS%20KICAU%20kenari%20muda.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 10,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 1",
+      "image": "https://i.pinimg.com/564x/24/f2/0a/24f20a1718b6945a3aa727585ee25051.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%281%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 11,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 2",
+      "image": "https://i.pinimg.com/564x/79/61/75/796175bbba40e13084f3db30a457226f.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2810%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 12,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 3",
+      "image": "https://i.pinimg.com/564x/fd/d0/59/fdd0594b336c3e5e8ce99965342a1da6.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2811%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 13,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 4",
+      "image": "https://i.pinimg.com/564x/3b/2a/d3/3b2ad3e558f59414ea6be012957843bc.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2812%29.mp3",
+      "lyrics": "KOSONG"
+	}
+  ,
+    {
+      "id": 14,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 5",
+      "image": "https://i.pinimg.com/564x/ec/d9/0b/ecd90b858aeeaf966bfdb8e12fd934ca.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2813%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 15,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 6",
+      "image": "https://i.pinimg.com/564x/46/26/dc/4626dccd82a76323f3cbf26d8af1d3e6.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2814%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 16,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 7",
+      "image": "https://i.pinimg.com/564x/f5/c7/44/f5c7442c608b240a8066f18fadfff0e1.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2815%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 17,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 8",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2816%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 18,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 9",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2817%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 19,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 10",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2818%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 20,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 11",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2819%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 21,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 12",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%282%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 22,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 13",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2820%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 23,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 14",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2821%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 24,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 15",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2822%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 25,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 16",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2823%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 26,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 17",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2824%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 27,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 18",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2825%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 28,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 19",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2826%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 29,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 20",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2827%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 30,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 21",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2828%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 31,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 22",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2829%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 32,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 23",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%283%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 33,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 24",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2830%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 34,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 25",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2831%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 35,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 26",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2832%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 36,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 27",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2833%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 37,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 28",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2834%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 38,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 29",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%2835%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 39,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 30",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%284%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 40,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 31",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%285%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 41,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 32",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%286%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 42,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 33",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%287%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 43,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 34",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%288%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 44,
+      "name_category": "KICAU KENARI",
+      "title": "KENARI 35",
+      "image": "https://i.pinimg.com/736x/63/47/95/63479521f190c38dc70d7f2e5cc54369.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-kenari-juara/kenari%20%289%29.mp3",
+      "lyrics": "KOSONG"
+    }
+  ]
+}
