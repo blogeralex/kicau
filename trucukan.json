@@ -1,0 +1,268 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "MASTERAN TRUCUKAN",
+      "image": "https://archive.org/download/icon_20220805/icon.png"
+    },
+    {
+      "id": 2,
+      "name_category": "PANCINGAN",
+      "image": "https://i.pinimg.com/564x/95/ec/f4/95ecf4b82102e58cee7eca8ff8fa7e28.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "TERAPI",
+      "image": "https://i.pinimg.com/564x/fb/ed/35/fbed3593850478a378eb05075f317263.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Ammi Nur Bait",
+      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Adi Hidayat",
+      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "MASTERAN TRUCUKAN",
+      "title": "Masteran Trucuk Ropelan",
+      "image": "https://archive.org/download/icon_20220805/icon.png",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%201%20Jam%20Masteran%20Trucuk%20Ropelan%20Durasinya%20Menitan.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 2,
+      "name_category": "MASTERAN TRUCUKAN",
+      "title": "Masteran Trucukan Isian MEWAH",
+      "image": "https://i.pinimg.com/564x/6a/df/0a/6adf0a582af2d951d63ee3bcff3a2718.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20100%20AMPUH%20Masteran%20Trucukan%20Durasi%202%20jam%20lebih%20Full%20Isian%20MEWAH.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 3,
+      "name_category": "MASTERAN TRUCUKAN",
+      "title": "MASTERAN  Trucukan Tembakan",
+      "image": "https://i.pinimg.com/564x/dd/f4/28/ddf42813e3df47a9f0111d7378652e9e.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20MASTERAN%20%20Trucukan%20Tembakan%20dan%20Ropel.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 4,
+      "name_category": "MASTERAN TRUCUKAN",
+      "title": "MASTERAN TRUCUKAN ROPEL PANJANG",
+      "image": "https://i.pinimg.com/564x/07/ca/64/07ca644be45699a9fce2b518144df04a.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20MASTERAN%20TRUCUKAN%20ROPEL%20PANJANG.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 5,
+      "name_category": "MASTERAN TRUCUKAN",
+      "title": "MASTERAN Untuk Trucukan Malas BUNYI",
+      "image": "https://i.pinimg.com/564x/91/1a/1c/911a1cc3a5c9fc081a2c2c58c1804e24.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20MASTERAN%20Trucukan%20Pagi%20Siang%20Sore%20Malam%20Untuk%20Trucukan%20Malas%20BUNYI.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 6,
+      "name_category": "MASTERAN TRUCUKAN",
+      "title": "Masteran Trucukan Full Terbaik",
+      "image": "https://i.pinimg.com/564x/ce/01/f8/ce01f8db228ea71d67083bbf982b2d4a.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20Masteran%20Trucukan%20Full%20Ropel%20Durasi%20Panjang%20Terbaik.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 7,
+      "name_category": "MASTERAN TRUCUKAN",
+      "title": "Masteran Trucukan SUARA JERNIH",
+      "image": "https://i.pinimg.com/564x/6c/aa/b1/6caab1d8cd3c37eae97d74fc6db9827a.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20Masteran%20Trucukan%20Ropel%20Durasi%20Panjang%20SUARA%20JERNIH.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 8,
+      "name_category": "MASTERAN TRUCUKAN",
+      "title": "Masteran Trucukan SUARA JERNIH",
+      "image": "https://i.pinimg.com/564x/8c/7e/5e/8c7e5e5fdda9e46b91b332604a45f14b.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20Masteran%20Trucukan%20Ropel%20Mewah%20Durasi%20Panjang.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 9,
+      "name_category": "MASTERAN TRUCUKAN",
+      "title": "Masteran Trucukan Durasi Panjang",
+      "image": "https://i.pinimg.com/564x/37/a7/d3/37a7d308a43454b9d9109578831b92e7.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20Masteran%20Wajib%20PagiSiangSoreMalam%20Untuk%20Burung%20TRUCUKAN%20AGAR%20GACOR%20DAN%20ROPEL.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 10,
+      "name_category": "MASTERAN TRUCUKAN",
+      "title": "Masteran TRUCUKAN AGAR GACOR DAN ROPEL",
+      "image": "https://i.pinimg.com/564x/af/24/1c/af241cfed649282c018535cc488a3c85.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20Masteran%20trucuk%20nembak%20gacor%20ropel%20panjang%20ampuh%20untuk%20pancingan%20agar%20trucukan%20gacor%20rajin%20bunyi%20%281%29.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 11,
+      "name_category": "MASTERAN TRUCUKAN",
+      "title": "Masteran agar trucukan gacor rajin bunyi 1",
+      "image": "https://i.pinimg.com/736x/1d/ac/01/1dac01aaf5ce663fbe81ff49011628dd.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20Masteran%20trucuk%20nembak%20gacor%20ropel%20panjang%20ampuh%20untuk%20pancingan%20agar%20trucukan%20gacor%20rajin%20bunyi.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 12,
+      "name_category": "MASTERAN TRUCUKAN",
+      "title": "Masteran agar trucukan gacor rajin bunyi 2",
+      "image": "https://i.pinimg.com/736x/1d/ac/01/1dac01aaf5ce663fbe81ff49011628dd.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20Pancingan%20Menaikkan%20EMOSI%20Trucukan%20biar%20BUNYI%20GACOR%20NGEPLONG%20dan%20ROPEL%20PANJANG%20%281%29.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 13,
+      "name_category": "PANCINGAN",
+      "title": "Pancingan Menaikkan EMOSI Trucukan",
+      "image": "https://i.pinimg.com/564x/95/ec/f4/95ecf4b82102e58cee7eca8ff8fa7e28.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20Pancingan%20Menaikkan%20EMOSI%20Trucukan%20biar%20BUNYI%20GACOR%20NGEPLONG%20dan%20ROPEL%20PANJANG.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 14,
+      "name_category": "PANCINGAN",
+      "title": "Pancingan Menaikkan EMOSI Trucukan 2",
+      "image": "https://i.pinimg.com/564x/5a/12/11/5a12111f7d4d4f1dce055eb0a1f2d4a4.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20Pancingan%20Trucuk%20Bahan%20agar%20cepat%20Bunyi%20Dan%20Gacor%20Tiap%20Hari.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 15,
+      "name_category": "PANCINGAN",
+      "title": "Pancingan Trucuk Bahan",
+      "image": "https://i.pinimg.com/564x/04/0d/c4/040dc46171c1c259029a21dbb9814a30.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20Suara%20Burung%20Trucuk%20Variasi%20Komplit%20Untuk%20Pancingan%20Trucukan%20Stres%20Akibat%20Pindah%20Sangkar.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 16,
+      "name_category": "PANCINGAN",
+      "title": "Pancingan Trucukan Stres Akibat Pindah Sangkar",
+      "image": "https://i.pinimg.com/564x/24/e2/82/24e28218464a39c5cce7090bb92a15d2.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20TEMBAKAN%20TRUCUKAN%20GACOR%20ROPEL%20PANJANG%20JERNIH%20BUAT%20MASTERAN%20BURUNG%20JUARA.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 17,
+      "name_category": "MASTERAN TRUCUKAN",
+      "title": "TRUCUKAN MASTERAN BURUNG JUARA",
+      "image": "https://i.pinimg.com/564x/04/0d/c4/040dc46171c1c259029a21dbb9814a30.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20Terapi%20Burung%20Trucukan%20Macet%20Bunyi%20Agar%20Ropel%20Pagi%20Hari%20Dan%20Malam%20Hari.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 18,
+      "name_category": "TERAPI",
+      "title": "Terapi Burung Trucukan Macet Bunyi",
+      "image": "https://i.pinimg.com/564x/fb/ed/35/fbed3593850478a378eb05075f317263.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20Trucukan%20GACOR%20ROPEL%20PANJANG%20%20Pancingan%20Durasi%201%20JAM%20%20MASTERAN%202020.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 19,
+      "name_category": "PANCINGAN",
+      "title": "Trucukan Pancingan Durasi 1 JAM  MASTERAN",
+      "image": "https://i.pinimg.com/736x/06/1c/4e/061c4e8e9f03d36093d30669a650c379.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20masteran%20trucuk%20durasi%20panjang%20untuk%20trucuk%20malas%20bunyi%20dan%20macet%20bunyi%20suara%20jernih.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 20,
+      "name_category": "MASTERAN TRUCUKAN",
+      "title": "masteran untuk trucuk malas bunyi dan macet bunyi",
+      "image": "https://i.pinimg.com/564x/c7/7a/46/c77a464efa3e3d84392ce56b1638f977.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20pancingan%20trucukan%20agar%20bunyi%20perangsang%20trucuk%20bahanombyokanmacet%20biar%20cepat%20gacor%20%20ropel.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 21,
+      "name_category": "PANCINGAN",
+      "title": "pancingan perangsang trucuk biar cepat gacor",
+      "image": "https://i.pinimg.com/564x/6f/ff/2f/6fff2f1de10beb0ed0b78e1d3e3727ef.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20suara%20jernih%20%20pancingan%20dan%20masteran%20trucukan%20garuda%20%20ropel%20panjang%20100%20mujarab%20bikin%20gacor.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 22,
+      "name_category": "PANCINGAN",
+      "title": "pancingan dan masteran trucukan garuda",
+      "image": "https://i.pinimg.com/564x/d4/ff/23/d4ff238add2f15c41865c20db899423a.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20suara%20jernih%20%20pancingan%20dan%20masteran%20trucukan%20untuk%20burung%20trucuk%20agar%20cepat%20bunyi%20dan%20gacor%20ropel.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 23,
+      "name_category": "PANCINGAN",
+      "title": "pancingan dan masteran trucukan",
+      "image": "https://i.pinimg.com/564x/1d/93/dc/1d93dc4b99b4944d86e3d8d7d89dd2fa.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20suara%20pancingan%20KESUKAAN%20%20trucukan%20paling%20cepat%20di%20RESPON%20dan%20bikin%20gacor%20dan%20ropel.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 24,
+      "name_category": "PANCINGAN",
+      "title": "suara pancingan KESUKAAN trucukan",
+      "image": "https://i.pinimg.com/564x/1d/93/dc/1d93dc4b99b4944d86e3d8d7d89dd2fa.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20suara%20pancingan%20trucukan%20mengejek%20lawan%20%20lawan%20langsung%20respon.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 25,
+      "name_category": "PANCINGAN",
+      "title": "pancingan trucukan mengejek lawan",
+      "image": "https://i.pinimg.com/564x/1d/93/dc/1d93dc4b99b4944d86e3d8d7d89dd2fa.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20suara%20pancingan%20trucukan%20mengejek%20lawan%20%20lawan%20langsung%20respon.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 26,
+      "name_category": "PANCINGAN",
+      "title": "suara tembakan trucukan SUPER GANAS KASAR TAJAM",
+      "image": "https://i.pinimg.com/564x/1d/93/dc/1d93dc4b99b4944d86e3d8d7d89dd2fa.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-100-ampuh-masteran-trucukan-durasi-2-jam-lebih-full-isian-mewah/y2mate.com%20-%20suara%20tembakan%20trucukan%20SUPER%20GANAS%20KASAR%20TAJAM%20sangat%20jitu%20menaikkan%20emosi%20trucuk%20agar%20nyaut%20GACOR.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 27,
+      "name_category": "MASTERAN TRUCUKAN",
+      "title": "Trucuk Jawa",
+      "image": "https://i.pinimg.com/564x/1d/93/dc/1d93dc4b99b4944d86e3d8d7d89dd2fa.jpg",
+      "link_mp3": "https://archive.org/download/masteran-trucukan-tembakan-/SUARA%20TRUCUKAN%20GACOR%20UNTUK%20PANCINGAN%20DAN%20MASTERAN.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 28,
+      "name_category": "MASTERAN TRUCUKAN",
+      "title": "MASTERAN  Trucukan Tembakan dan Ropel",
+      "image": "https://i.pinimg.com/564x/1d/93/dc/1d93dc4b99b4944d86e3d8d7d89dd2fa.jpg",
+      "link_mp3": "https://archive.org/download/masteran-trucukan-tembakan-/Suara%20trucukan%20Gacor.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 29,
+      "name_category": "MASTERAN TRUCUKAN",
+      "title": "SUARA BURUNG TRUCUKAN MERDU",
+      "image": "https://i.pinimg.com/564x/1d/93/dc/1d93dc4b99b4944d86e3d8d7d89dd2fa.jpg",
+      "link_mp3": "https://archive.org/download/masteran-trucukan-tembakan-/TRUCUKAN%20JUARA%20SUPER%20GACOR%20ROPEL%20PANJANG.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 30,
+      "name_category": "MASTERAN TRUCUKAN",
+      "title": "Suara trucukan Gacor",
+      "image": "https://i.pinimg.com/564x/1d/93/dc/1d93dc4b99b4944d86e3d8d7d89dd2fa.jpg",
+      "link_mp3": "https://archive.org/download/masteran-trucukan-tembakan-/Trucukan%20gacor%20ropel%20full%20isian.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 31,
+      "name_category": "MASTERAN TRUCUKAN",
+      "title": "Trucuk Kebo Juara NASIONAL",
+      "image": "https://i.pinimg.com/564x/1d/93/dc/1d93dc4b99b4944d86e3d8d7d89dd2fa.jpg",
+      "link_mp3": "https://archive.org/download/masteran-trucukan-tembakan-/Trucukan%20juara%201%20nasional.mp3",
+      "lyrics": "KOSONG" }
+  ]
+}
